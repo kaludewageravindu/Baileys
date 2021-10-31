@@ -2,7 +2,7 @@
   "name": "@adiwajshing/baileys",
   "version": "3.5.2",
   "description": "WhatsApp Web API",
-  "homepage": "https://github.com/adiwajshing/Baileys",
+  "homepage": "https://github.com/kaludewageravindu/Baileys",
   "main": "lib/index.js",
   "types": "lib/index.d.ts",
   "keywords": [
